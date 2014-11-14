@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">AndroidSplashActivity</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world1">I am splash activity!</string>
+    <string name="hello_world2">I am main activity!</string>
     <string name="title_activity_splash">SplashActivity</string>
 
 </resources>
